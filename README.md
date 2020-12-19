@@ -4,3 +4,5 @@
 metric.py : Evaluate MSE and SSIM threshold
 
 verify.py : Test MSE and SSIM threshold
+
+.txt files : metrics for training
